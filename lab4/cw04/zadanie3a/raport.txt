@@ -1,0 +1,1 @@
+Najwiecej sygnalow przechodzi dla sigqueue 70%-90%, dla kill zarowno dla sigusr jak i sigrt 20%-50%.

@@ -1,0 +1,1 @@
+duzeTeksty/txt1.txt:duzeTeksty/txt2.txt duzeTeksty/txt2.txt:duzeTeksty/txt3.txt duzeTeksty/txt3.txt:duzeTeksty/txt4.txt duzeTeksty/txt4.txt:duzeTeksty/txt5.txt duzeTeksty/txt5.txt:duzeTeksty/txt6.txt

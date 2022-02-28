@@ -1,0 +1,4 @@
+Parser dziala perfekcyjnie. Nie ma limitu na ilosc skladnikow, argumentow, dlugosc potoku, wszystko jest
+alokowane dynamicznie. Skladniki, programy oraz potoki moga byc w dowolnej kolejnosci. Parser
+najpierw zaladuje wszystkie programy i skladniki, a potem przeczyta wszystkie potoki i je wykona.
+Pipe faktycznie dostarcza nam mozliwosc przesylania danych bezposrednio miedzy programami.

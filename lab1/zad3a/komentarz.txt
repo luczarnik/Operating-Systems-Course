@@ -1,0 +1,1 @@
+Wyglada na to, ze linkowanie dynamiczne sprawdza sie najwolniej. Pozostale dwie metody linkowania wypadaja podobnie.

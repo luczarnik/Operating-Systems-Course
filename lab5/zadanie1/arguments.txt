@@ -1,0 +1,14 @@
+składnik1 = cat /etc/passwd | wc -l
+składnik2 = ls | grep a
+składnik3 = grep user
+składnik4 = echo cos
+składnik6 = cat /etc/passwd
+składnik7 = ls
+
+#składniki testujace parser
+składnik5 = cos a b c d | innego e f g h i j k | bardzo kl j j
+składnik9 = ksa k ksa lkaekl klaes klesa | akem amklel mkleas | akmeakles amkle
+
+składnik6 | składnik3
+składnik2
+składnik1

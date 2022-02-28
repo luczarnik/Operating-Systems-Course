@@ -1,0 +1,1 @@
+Teraz niezaleznie od wybranego sposobu przekazywania sygnalu wszystkie zostaja odebrane. Zakleszczenia unikam dzieki temu, ze kolejny sygnal wysylam dopiero gdy dotrze potwierdzenie odebrania poprzedniego.

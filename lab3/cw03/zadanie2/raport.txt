@@ -1,0 +1,8 @@
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.000000	0.000000	0.000000
+merge_files			0.000000	0.000000	0.000000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000

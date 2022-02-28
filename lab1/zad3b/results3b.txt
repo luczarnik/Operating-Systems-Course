@@ -1,0 +1,240 @@
+     -O optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.150000	0.150000	0.150000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+     -O1 optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.140000	0.140000	0.140000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+     -O2 optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.150000	0.150000	0.150000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.130000	0.130000	0.130000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+     -O3 optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.150000	0.150000	0.150000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+     -O0 optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+     -Os optimalization
+	linkowanie statyczne
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie wspoldzielone
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.010000	0.010000	0.010000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.120000	0.120000	0.120000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+	linkowanie dynamiczne 
+testy dla malych plikow tekstowych
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.020000	0.020000	0.020000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000
+testy dla duzych plikow tekstowucj
+name ro    			realTime	userTime	systemTime
+create_table			0.000000	0.000000	0.000000
+merge_files			0.140000	0.140000	0.140000
+load file to block			0.000000	0.000000	0.000000
+remove_block			0.000000	0.000000	0.000000

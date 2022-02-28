@@ -1,0 +1,3 @@
+zarowno konsument jak i producent dzialaja poprawnie 
+testy przeprowadzilem dla 7 plikow tekstowych, z czego kazdy sklada sie z serji tych samych znakow
+do potoku faktycznie moze pisac wiele procsow, niestety nie udalo mi sie zaimplementowac czytania przez wielu konsumentow(problemy z flockiem) dla wielu producentow konsument otrzymuje kazdy komunikat z kazdego procesu. 

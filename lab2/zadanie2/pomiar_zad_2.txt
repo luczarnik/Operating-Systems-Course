@@ -1,0 +1,6 @@
+biblioteki systemowe
+name ro    			realTime	userTime	systemTime
+zadanie 2			0.000000	0.000000	0.000000
+biblioteki jezyka
+name ro    			realTime	userTime	systemTime
+zadanie 2			0.000000	0.000000	0.000000

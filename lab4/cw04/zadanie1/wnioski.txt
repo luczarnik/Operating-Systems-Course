@@ -1,0 +1,2 @@
+Dla funkcji fork sygnal czekajacy w przodku nie jest widoczny w dziecku. Dziecko dziedziczy maskowanie, handlery oraz ignorowanie.
+W przypadku funkcji exec dzidziczone sa maskowanie, oraz ignorowanie ale nie hendlery. Sygnal, ktory oczekiwal w przodku po wykonaniu exec oczekuje rowniez w potomku.

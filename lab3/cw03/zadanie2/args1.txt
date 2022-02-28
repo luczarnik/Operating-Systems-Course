@@ -1,0 +1,2 @@
+maleTeksty/txt1.txt:maleTeksty/txt2.txt maleTeksty/txt2.txt:maleTeksty/txt3.txt maleTeksty/txt3.txt:maleTeksty/txt4.txt maleTeksty/txt4.txt:maleTeksty/txt5.txt maleTeksty/txt5.txt:maleTeksty/txt6.txt maleTeksty/txt6.txt:maleTeksty/txt7.txt maleTeksty/txt7.txt:maleTeksty/txt8.txt maleTeksty/txt8.txt:maleTeksty/txt9.txt maleTeksty/txt9.txt:maleTeksty/txt10.txt
+
